@@ -1,0 +1,68 @@
+
+.wrapper
+{
+    height: 100px;
+    width:100px;
+  /* background-color:black;*/
+
+}
+header
+{
+    height:150px;
+    width:2000px;
+   background-color:black;
+}
+
+section
+{
+    height:900px;
+    width:2000px;
+    background-color:grey;
+}
+
+footer
+{
+    height:100px;
+    width:2000px;
+    background-color:black;
+}
+.logo
+{
+    float:left;
+      padding-left:30px;
+}
+.logo img
+{
+    padding-left:80px;
+}
+li a
+{
+  color:white;
+  text-decoration:none;
+}
+/*nav
+{
+    float:right;
+    word-spacing: 30px;
+}
+nav li
+{
+    display: inline-block;
+    line-height: 100px;
+}|*/
+section .sec_img
+{
+    height:900px;
+    margin:0px;
+     background-image: url("New/wallpaper1.jpg");
+
+}
+.box
+{
+    height:300px;
+    width:450px;
+    background-color:#0c0a00;
+    margin:70px auto;
+    opacity:.6;
+    color:white;
+}
