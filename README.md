@@ -1,2 +1,2 @@
 # Nirmada-Dilhari
-Simple web page
+Simple web page.( HTML & CSS )
